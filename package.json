@@ -1,0 +1,22 @@
+{
+  "name": "rowin-eagle-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "roll-build": "rollup -c -w"
+  },
+  "keywords": [],
+  "author": "饶驹",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^3.2.3",
+    "vite": "^3.2.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
